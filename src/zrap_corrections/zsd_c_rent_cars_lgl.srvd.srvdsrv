@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition - Rent Cars Entity'
+define service Zsd_C_RENT_CARS_LGL {
+  expose Z_C_RENT_CARS_LGL;
+}

@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service  Rentinggg'
+define service ZSD_RENTING_RJB {
+  expose Z_I_RENTING_RJ      as Cars;
+  expose z_b_det_customer_rj as Customers;
+}
